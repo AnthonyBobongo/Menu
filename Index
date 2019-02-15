@@ -1,0 +1,44 @@
+<section id="faq">
+  <div class="container">
+    <button class="accordion is open">How does KLAW handle E-waste?</button>
+    <div class="accordion-content">
+      <p>
+        Our KLAW team understands the delicate nature of e-waste and the importance of properly collecting, packing, and transporting it. A core mission of KLAW is to repurpose as many collected electronics as possible and keep dangerous metals out of landfills. If an item cannot be repurposed, we move to Plan B – Recycling.
+      </p>
+    </div>
+    <button class="accordion">Where is KLAW located?</button>
+    <div class="accordion-content">
+      <p> Our services are currently only offered in New York, and the Washington DC area.</p>
+    </div>
+    <button class="accordion">What kind of items do you pick up?</button>
+    <div class="accordion-content">
+      <p> We accept all office equipment ranging from computers, monitors, cables, and printers. Unfortunately we dont accept items such has coffee makers and/or microwaves.</p>
+    </div>
+    <button class="accordion">How do I get in contact with KLAW?</button>
+    <div class="accordion-content">
+      <p>We can be reached 24/7 at <a href="#">info@klaw.co</a> and/or via phone at <a href="#">347-843-0823</a> 7 days a week.</p>
+    </div>
+    <button class="accordion">Why can't I put out electronics on in the trash? </button>
+    <div class="accordion-content">
+      <p>Did you know that electronic waste (e-waste) has been classified as a hazardous material?</p>
+      <p>Electronic items contain hazardous materials such as mercury, lead and silicon. For example, in order to protect consumers from radiation dangers, the glass in CRT monitors and TVs contain lead.  Approximately 20% of the weight in each CRT is lead – which equates to 4 to 8 pounds per unit.
+        While these items are perfectly safe for everyday use, they become dangerous when smashed open (like on a garbage truck) or exposed to elements (like in a landfill). For these reasons, the proper computer recycling and disposal of e-waste has become a paramount concern for the general public.</p>
+    </div>
+    <button class="accordion">Does KLAW provide me with a receipt of collected items and is it tax deductible?</button>
+    <div class="accordion-content">
+      <p>If a receipt if requested</p>
+    </div>
+    <button class="accordion">Why repurpose and recycle electronics?</button>
+    <div class="accordion-content">
+      <p>Electronics represent 70% of toxic waste in America. When broken and outdated hardware is sent to a landfill, it leeches dangerous chemicals into the air, water and soil. These pollutants include lead, cadmium and PCBs. Not only does repurposing and recycling reduce toxic waste, it also saves copper, gold, tungsten and other resources so that more do not need to be mined to make new device</p>
+    </div>
+    <button class="accordion">Does KLAW provide proof of data destruction?</button>
+    <div class="accordion-content">
+      <p> Yes, for customers who request data erasure, We provide a Certificate of Data Destruction. KLAW destroys all data on hard drives according to the National Institute of Standards and Technology (NIST) 800-88 guidelines.</p>
+    </div>
+    <button class="accordion">Does KLAW donate equipment to non profits, different organizations, and communities in need?</button>
+    <div class="accordion-content">
+      <p>Yes, were are always looking to partner with more non profits to spread the gift of technology to end users. If you know of</p>
+    </div>
+  </div>
+</section>
